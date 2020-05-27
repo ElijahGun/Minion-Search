@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Minion-Search/static/css/main.8526aee3.chunk.css",
+    "main.js": "/Minion-Search/static/js/main.158168e2.chunk.js",
+    "main.js.map": "/Minion-Search/static/js/main.158168e2.chunk.js.map",
+    "runtime-main.js": "/Minion-Search/static/js/runtime-main.c879791d.js",
+    "runtime-main.js.map": "/Minion-Search/static/js/runtime-main.c879791d.js.map",
+    "static/js/2.a3c82928.chunk.js": "/Minion-Search/static/js/2.a3c82928.chunk.js",
+    "static/js/2.a3c82928.chunk.js.map": "/Minion-Search/static/js/2.a3c82928.chunk.js.map",
+    "index.html": "/Minion-Search/index.html",
+    "precache-manifest.bcc4641b06a4c02eaf175a29de5506dc.js": "/Minion-Search/precache-manifest.bcc4641b06a4c02eaf175a29de5506dc.js",
+    "service-worker.js": "/Minion-Search/service-worker.js",
+    "static/css/main.8526aee3.chunk.css.map": "/Minion-Search/static/css/main.8526aee3.chunk.css.map",
+    "static/js/2.a3c82928.chunk.js.LICENSE.txt": "/Minion-Search/static/js/2.a3c82928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c879791d.js",
+    "static/js/2.a3c82928.chunk.js",
+    "static/css/main.8526aee3.chunk.css",
+    "static/js/main.158168e2.chunk.js"
+  ]
+}
